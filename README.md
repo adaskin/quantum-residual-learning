@@ -1,4 +1,5 @@
 # Multi‑Stage Residual Quantum Learner
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18937121.svg)](https://doi.org/10.5281/zenodo.18937121)
 
 This repository contains the code accompanying the paper:
 
