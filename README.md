@@ -3,8 +3,8 @@
 
 This repository contains the code accompanying the paper:
 
-**"Mitigating Frequency Learning Bias in Quantum Models via Multi‑Stage Residual Learning"**  
-Ammar Daskin
+**"Mitigating Frequency Learning Bias in Quantum Models via Multi‑Stage Residual Learning"**,   
+Ammar Daskin,[https://arxiv.org/abs/2603.10083](https://arxiv.org/abs/2603.10083), March 2026
 
 The project implements a multi‑stage residual learning framework for parameterized quantum circuits, inspired by classical Fourier neural operators (SpecB‑FNO). It systematically studies how quantum models learn multi‑frequency functions and demonstrates that residual training can significantly improve performance, especially for high‑frequency components.
 
@@ -79,11 +79,12 @@ All scripts save their output figures as both PNG and PDF in the current directo
 If you use this code in your research, please cite the paper:
 
 ```
-@article{daskin2025mitigating,
+@article{daskin2026mitigating,
   title={Mitigating Frequency Learning Bias in Quantum Models via Multi‑Stage Residual Learning},
   author={Daskin, Ammar},
-  journal={...},
-  year={2025}
+  journal={arxiv preprint: 2603.10083},
+  year={2026},
+  url={https://arxiv.org/abs/2603.10083}
 }
 ```
 
